@@ -20,8 +20,10 @@
   <img align="center" src="https://thumbs.gfycat.com/AdoredSpitefulHippopotamus-max-14mb.gif">
 </div>
 
-## High Priority Items :arrow_down:
+## High Priority Items :arrow_up:
 
+* Rank Internship Companies - Complete
+* Clean up some repos on github and build greate README's
 * Redo capstone proposal
 * Clean up resume and get some feedback from Mentorship Saturday meetup
 * Write some references on LinkedIn for fellow classmates.
@@ -38,43 +40,23 @@ Very Interesting Post Board [Blog Post Here](https://news.ycombinator.com/item?i
 
 Five keys I learned from post BootCamp Job search [Blog Post Here](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 
-## Books to Read :computer:
+## Books to Read :beginner:
 
 This software uses code from several open source packages.
 
-- [Ruby](http://ruby-doc.org/)
-- [Rails](http://guides.rubyonrails.org/)
-- [Faker](https://github.com/stympy/faker)
-- [BCrypt](https://github.com/codahale/bcrypt-ruby)
-- [Rspec](https://github.com/rspec/rspec-rails)
-- [Simplecov](https://github.com/colszowka/simplecov)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [PostMan](https://www.getpostman.com/)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/dp/020161622X/?tag=codihorr-20)
+- [The Well Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692/ref=sr_1_1?s=books&ie=UTF8&qid=1513366292&sr=1-1&keywords=the+well+grounded+rubyist)
+- [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1513366405&sr=8-1&keywords=JavaScript-Good-Parts-Douglas-Crockford)
+- [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?s=books&ie=UTF8&qid=1513366438&sr=1-1&keywords=the+lean+startup)
 
 
 ## Short Term Goals :key:
-
-* Destinations - Create, Update, return all, and return specific destination
-  - Returns destination in JSON format.
-* Reviews - Create, Update, return all, and return specific review for destination
-  - Returns review in JSON format
-* Search - Returns a list of destitions with a API call
-* [BCrypt](https://github.com/codahale/bcrypt-ruby) authentication via API-Key for posting Reviews
-* API call is returned in JSON format
-* Readable API call messages that give user good feedback
-* Option to seed fake data
+  * Short term Goal Here
+  * Long Term Goal Here [Goal](https://Goal.com).
 
 ## Long Term Goals :wrench:
+  * Long Term Goal Here [Goal](https://Goal.com).
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Ruby](http://ruby-doc.org/) (which comes with [rails](http://guides.rubyonrails.org/)) installed on your computer. From your command line:
-
-
-
-You can use this API with postman to make calls or you can clone this repo (https://github.com/hal2814/travel-api-frontend) to call through an Agular application.
-
-
-
-Note: If you get any errors there might be some other problems.
 ---
 
 ## License
