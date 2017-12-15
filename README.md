@@ -38,11 +38,11 @@ Job Hunting 101 for Coding Bootcamp Graduates [Blog Post Here](https://www.getbo
 
 Very Interesting Post Board [Blog Post Here](https://news.ycombinator.com/item?id=13006555)
 
-Five keys I learned from post BootCamp Job search [Blog Post Here](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
-
 7 Tips to Landing a Junior Dev Job After Bootcamp [Blog Post Here](https://www.reax.io/blog/2016/08/30/7-tips-to-landing-a-junior-dev-job-after-bootcamp/)
 
 LIFE AFTER CODING BOOTCAMP: LANDING THAT FIRST JOB [Blog Post Here](https://nextdoordev.com/2017/09/19/life-after-coding-bootcamp-landing-that-first-job/)
+
+How to Land Your Dream Job with One Spreadsheet [Blog Post Here](https://zapier.com/blog/supercharge-your-job-hunt/)
 
 ## Books to Read :beginner:
 
