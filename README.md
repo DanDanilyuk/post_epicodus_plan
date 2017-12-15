@@ -55,7 +55,7 @@ This software uses code from several open source packages.
   * Long Term Goal Here [Goal](https://Goal.com).
 
 ## Long Term Goals :wrench:
-  * Long Term Goal Here [Goal](https://Goal.com).
+  * Do atleast 3 [Codewars](http://www.codewars.com/dashboard) Challenges per day. 
 
 ---
 
