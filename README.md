@@ -40,6 +40,10 @@ Very Interesting Post Board [Blog Post Here](https://news.ycombinator.com/item?i
 
 Five keys I learned from post BootCamp Job search [Blog Post Here](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 
+7 Tips to Landing a Junior Dev Job After Bootcamp [Blog Post Here](https://www.reax.io/blog/2016/08/30/7-tips-to-landing-a-junior-dev-job-after-bootcamp/)
+
+LIFE AFTER CODING BOOTCAMP: LANDING THAT FIRST JOB [Blog Post Here](https://nextdoordev.com/2017/09/19/life-after-coding-bootcamp-landing-that-first-job/)
+
 ## Books to Read :beginner:
 
 This software uses code from several open source packages.
@@ -55,7 +59,7 @@ This software uses code from several open source packages.
   * Long Term Goal Here [Goal](https://Goal.com).
 
 ## Long Term Goals :wrench:
-  * Do atleast 3 [Codewars](http://www.codewars.com/dashboard) Challenges per day. 
+  * Do atleast 3 [Codewars](http://www.codewars.com/dashboard) Challenges per day.
 
 ---
 
