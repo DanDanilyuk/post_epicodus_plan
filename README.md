@@ -16,8 +16,9 @@
   [![MIT license](https://img.shields.io/badge/Currently%20Working%20On-Internship-blue.svg)](http://opensource.org/licenses/MIT)
 </div>
 <br>
+
 <div align="center">
-  <img src="https://thumbs.gfycat.com/AdoredSpitefulHippopotamus-max-14mb.gif">
+  <img align="center" src="https://thumbs.gfycat.com/AdoredSpitefulHippopotamus-max-14mb.gif">
 </div>
 
 ## High Priority Items :arrow_up:
