@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://thumbs.gfycat.com/AdoredSpitefulHippopotamus-max-14mb.gif">
+  <img src="https://thumbs.gfycat.com/AdoredSpitefulHippopotamus-max-14mb.gif">
 </div>
 
 ## High Priority Items :arrow_up:
