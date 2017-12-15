@@ -55,11 +55,15 @@ This software uses code from several open source packages.
 
 
 ## Short Term Goals :key:
-  * Short term Goal Here
-  * Long Term Goal Here [Goal](https://Goal.com).
+  * Create capstone and present it at Fullstack PDX next friday as is.
+  * Deploy portfolio project on Heroku with Amazon S3 bucket for storage.
 
 ## Long Term Goals :wrench:
   * Do atleast 3 [Codewars](http://www.codewars.com/dashboard) Challenges per day.
+  * Check Job boards and send application before noon.
+  * Go to at least 2 Meetups per week.
+  * Continue starting "work" at 8:00 AM
+  * Build a site with a rails front end and a React front end.
 
 ---
 
