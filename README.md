@@ -23,13 +23,28 @@
 
 ## High Priority Items :arrow_up:
 
-* Rank Internship Companies - Complete
-* Clean up some repos on github and build greate README's
-* Redo capstone proposal
-* Clean up resume and get some feedback from Mentorship Saturday meetup
-* Write some references on LinkedIn for fellow classmates.
+* Rank Internship Companies - Complete - 10
+* Build and finish capstone project - 10
+* Clean up pinned repos on github and build great README's - 9
 
-## Articles Read :arrow_down:
+## Medium Priority Items :arrow_up:
+
+* Write some references on LinkedIn for fellow classmates - 8
+* Build portfolio website and add Resume for download - 8
+* Order Business cards from Vistaprint with contact info - 7
+* Clean up resume and get some feedback from Mentorship Saturday meetup - 7
+
+## Low Priority Items :arrow_up:
+
+* Contribute to 3 open source projects before new years - 6
+* Take online course on note taking with Evernote - 6
+* Practice elevator pitch and work on improving public speaking - 5
+
+## Action Plan :rocket:
+
+My goal is to focus on the next step. I will first focus on getting my work done with my capstone while doing internship coursework. The week after capstone will be used to study additional material and read. I also need to build out some of projects so I have more polished projects to show. During and after the holidays I will begin applying and searching for jobs. My goal is to get an internship on a team and a job with a great support team so I can learn and grow as quickly as possible.
+
+## Articles Read :beginner:
 
 Five keys I learned from post BootCamp Job search [Blog Post Here](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 
@@ -56,15 +71,15 @@ This software uses code from several open source packages.
 
 
 ## Short Term Goals :key:
-  * Create capstone and present it at Fullstack PDX next friday as is.
-  * Deploy portfolio project on Heroku with Amazon S3 bucket for storage.
+  * Present Capstone at Fullstack PDX next friday as is
+  * Deploy portfolio project on Heroku with Amazon S3 bucket for storage
 
 ## Long Term Goals :wrench:
-  * Do atleast 3 [Codewars](http://www.codewars.com/dashboard) Challenges per day.
+  * Do atleast 3 [Codewars](http://www.codewars.com/dashboard) Challenges per day
   * Check Job boards and send application before noon.
-  * Go to at least 2 Meetups per week.
+  * Go to at least 2 Meetups per week
   * Continue starting "work" at 8:00 AM
-  * Build a site with a rails front end and a React front end.
+  * Build a site with a rails front end and a React front end
 
 ---
 
